@@ -1,0 +1,5 @@
+#rename this file to terraform.tfvars and update the below values
+region=""
+vnet_cidr=""
+vm_size=""
+vm_username=""
